@@ -47,7 +47,7 @@ body{
     border-radius: 1px;
 }
 
-/* Он находит элементы, не соответствующие селектору  DUCK DUCK AI*/
+/* Он находит элементы, не соответствующие селектору  */
 .header-nav:not(:last-of-type){
     margin-right: 16px;
 }
@@ -66,7 +66,7 @@ body{
     background-image: url(img/svg/profile.svg);
 }
 .repair-icon{
-    background-image: url(img/svg/repair.svg);
+    background-image: url(img/svg/repair.png);
 }
 .status-icon{
     background-image: url(img/svg/checkstatus.svg);
@@ -171,7 +171,7 @@ body{
     display: flex;
     justify-content: flex-end;
     cursor: pointer;
-    background: url(/CPS/img/svg/expand.svg) no-repeat left center;
+    background: url(img/svg/expand.svg) no-repeat left center;
 }
 .caption_imagewrapper{
     margin-top: 16px;
@@ -290,10 +290,10 @@ opacity: 0px;
     background-size: 40px;
 }
 .repair-icon{
-    background:url(/CPS/img/svg/repair.svg) no-repeat right;
+    background:url(img/svg/repair.svg) no-repeat right;
 }
 .status-icon{
-    background: url(/CPS/img/svg/checkstatus.svg) no-repeat right;
+    background: url(img/svg/profile.svg) no-repeat right;
 }
 .label{
     line-height: 24px;

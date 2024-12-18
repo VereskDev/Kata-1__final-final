@@ -252,7 +252,7 @@ opacity: 0px;
     padding-top: 42px;
 }
 .main-title {
-    width: 1096px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;

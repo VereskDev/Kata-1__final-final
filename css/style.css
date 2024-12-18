@@ -53,14 +53,14 @@ body{
 }
 
 .burger-icon{
-    background-image: url(img/svg/burger.svg)
+    background-image: url(/img/svg/burger.svg)
 }
 
 .call-icon{
-    background-image: url(img/svg/call.svg);
+    background-image: url(./img/svg/call.svg);
 }
 .chat-icon{
-    background-image: url(img/svg/chat.svg);
+    background-image: url(../img/svg/chat.svg);
 }
 .profile-icon{
     background-image: url(img/svg/profile.SVG);
